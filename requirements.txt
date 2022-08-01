@@ -3,4 +3,4 @@ gensim==4.2.0
 numpy==1.21.6
 sklearn==0.0
 matplotlib==3.5.2
-umap==0.5.3
+umap==0.1.1
